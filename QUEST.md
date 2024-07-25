@@ -116,10 +116,15 @@
 
 ## K041 이훈
 
-### 퀘스트 :
+### 퀘스트 : 산책
+ 
+### 선정 이유 : 오래 앉아있는 나의 몸을 위해 산책으로 건강 찾기 
 
-### 선정 이유 :
-
+### 실천 사항
+![image](https://gist.github.com/user-attachments/assets/bb3de954-661a-4101-9eaa-cec383e66b1f)
+![image](https://gist.github.com/user-attachments/assets/209d0017-8d1e-4383-a0a3-4c4633415a00)
+![image](https://gist.github.com/user-attachments/assets/66a136ca-56b7-463a-a204-fc64153d8eeb)
+![image](https://gist.github.com/user-attachments/assets/9e7f5381-1a83-4a44-b61d-7f268ef37d9b)
 ## J196 이주현
 
 ### 퀘스트 : 1. 스트레칭
