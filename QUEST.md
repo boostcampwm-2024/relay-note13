@@ -146,7 +146,9 @@
 
 ### 퀘스트 수행 과정
 
-![image](https://github.com/user-attachments/assets/5623db58-f448-47db-8059-e387fb65d3f9)## J061 김주호
+![image](https://github.com/user-attachments/assets/db894751-14f7-4c07-b191-ec33470b0c87)
+
+## J061 김주호
 
 ### 퀘스트 : 3. 일기 작성
 
